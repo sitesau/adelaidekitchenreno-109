@@ -1,0 +1,22 @@
+{
+  "wheel_id": 860,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-109",
+  "project": "kitchen-renovation-adelaide-what-to-expect-592819f2b40ae98e1cf7",
+  "parent_t1_ref": "adelaidekitchenreno-154",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovation adelaide what to expect",
+  "intended_url": "https://sitesau.github.io/adelaidekitchenreno-109/",
+  "tier": "T2",
+  "writeback_nonce": "3772c17893c75afd",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovation-adelaide-checklist-f32ec8d58f6ae2c7a8519e05c/",
+      "anchor": "this kitchen renovation adelaide checklist guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
